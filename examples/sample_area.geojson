@@ -1,0 +1,47 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [116.39, 39.90],
+            [116.41, 39.90],
+            [116.41, 39.92],
+            [116.39, 39.92],
+            [116.39, 39.90]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "南锣鼓巷区域",
+        "description": "北京市东城区南锣鼓巷及其周边区域"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.40, 39.91]
+      },
+      "properties": {
+        "name": "南锣鼓巷中心",
+        "description": "南锣鼓巷中心点"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.403, 39.915]
+      },
+      "properties": {
+        "name": "什刹海",
+        "description": "什刹海区域"
+      }
+    }
+  ]
+}
